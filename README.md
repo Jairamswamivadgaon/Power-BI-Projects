@@ -15,4 +15,13 @@ Max Revenue from a Single Order: $66,843
 
 Max Order Size: 3,101 
 
-Max Units Sold in One Transaction: 5,095 units
+Max Units Sold in One Transaction: 5,095 units.
+
+
+Yearly Revenue Comparison.
+
+Year_2022 Total Revenue: $7,482,498.
+
+Year_2023 Total Revenue: $6,962,074.
+
+Observation: Revenue in 2022 is greater than in 2023.
