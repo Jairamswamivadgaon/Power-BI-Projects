@@ -26,7 +26,8 @@ Year_2023 Total Revenue: $6,962,074.
 
 Observation: Revenue in 2022 is greater than in 2023.
 
-🚀 Summary of Findings
+🚀 Summary of Findings:
+
 The first page of the project displays the revenue from stores in four specific areas: Airport, Residential, Downtown, and Commercial, covering 29 cities with 50 stores.
 The total revenue for the year 2022 is greater than that for 2023, indicating a decline in revenue.
 Product Wise Analysis:
