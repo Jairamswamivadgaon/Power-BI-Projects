@@ -30,4 +30,12 @@ Observation: Revenue in 2022 is greater than in 2023.
 
 The first page of the project displays the revenue from stores in four specific areas: Airport, Residential, Downtown, and Commercial, covering 29 cities with 50 stores.
 The total revenue for the year 2022 is greater than that for 2023, indicating a decline in revenue.
-Product Wise Analysis:
+
+🚀 Product Wise Analysis:
+
+In the product analysis, the Toy Category led in total revenue and profit for both 2022 and 2023, with Action Figures achieving the highest profit margin at 26.89%. 
+
+The Electronics Category's Colorbuds followed closely with a 24.95% profit, while Barrel O’ Slime in Art & Crafts had an 18.77% profit margin. On the Product-wise Revenue page, Lego Bricks topped revenue gains at $2,388,883, while the Uno Card Game had the lowest at $21,653. 
+
+In 2022, the Electronics Category generated the highest overall profit, but in 2023, it shifted to Art & Crafts. December 2022 and March 2023 recorded the highest profits, respectively. Drill-through options are available on the Product-wise Profit and Year-wise Revenue pages.
+
