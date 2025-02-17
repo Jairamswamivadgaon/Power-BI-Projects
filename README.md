@@ -52,21 +52,25 @@ Highest Profit Products:
 •	Barrel O’ Slime (Art & Crafts): 18.77% profit.
 
 Revenue Insights:
+
 •	Highest Revenue Product: Lego Bricks ($2,388,883).
 
 •	Lowest Revenue Product: Uno Card Game ($21,653).
 
 Profit Trends:
+
 •	Year_2022: Electronics Category had the highest profit.
 
 •	Year_2023: Art and Crafts Category had the highest profit.
 
 Monthly Profit Insights:
+
 •	Year_2022: December had the highest profit.
 
 •	Year_2023: March had the highest profit.
 
 Top Products by Year:
+
 •	Year_2022: Colorbuds, Action Figure, Lego Bricks.
 
 •	Year_2023: Colorbuds, Lego Bricks, Action Figure.
